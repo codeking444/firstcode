@@ -1,4 +1,3 @@
 # firstcode
-Author:Hari Shukla
-<br>
-haritech
+Author:Hari Om Shukla
+this is the code for Tic tac toe game 
